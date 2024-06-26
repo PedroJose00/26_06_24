@@ -14,4 +14,4 @@
 module load Analytics/Anaconda/python3
 source activate fenicsx-env
 
-python 21_06_24.py
+python 26_06_24.py
